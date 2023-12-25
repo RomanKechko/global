@@ -1,0 +1,14 @@
+.possibilities_right {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 180px 0 0 150px;
+
+  overflow-wrap: nowrap;
+}
+.img {
+  width: 45%;
+  height: auto;
+  transform: rotate3d(4, 0.5, 1, 30deg);
+  box-shadow: -12px 12px 9px 1px #3a3a3a;
+}

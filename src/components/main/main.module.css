@@ -1,0 +1,99 @@
+.main {
+  position: relative;
+  overflow: hidden;
+  width: 100vw;
+  --custom-height: calc(100vh - 100px);
+  height: 100vh;
+}
+
+.introductory_left_contents {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.introductory_right_contents {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 50%;
+}
+.introductory_left_contents,
+.introductory_right_contents {
+  transition: transform 0.6s ease;
+}
+.introductory_title {
+  margin: 200px 0 70px 0;
+  max-width: 436px;
+  text-align: center;
+  font-size: 25px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.introductory_conteiner {
+  padding: 0 0 0;
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  border: 1px solid rgb(0, 0, 0);
+  border-top: none;
+  position: relative;
+}
+.introductory_conteiner::before,
+.introductory_conteiner::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 180px;
+  height: 2px;
+  background-color: rgb(0, 0, 0);
+}
+
+.introductory_conteiner::before {
+  left: 0;
+}
+
+.introductory_conteiner::after {
+  right: 0;
+}
+.introductory_conteiner_title {
+  max-width: 400px;
+  margin: 0;
+  margin-top: 65px;
+  text-align: center;
+  font-size: 16px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.introductory_conteiner_description {
+  margin: 0;
+  padding-top: 10px;
+  text-align: center;
+  max-width: 500px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.icon {
+  position: absolute;
+  width: 50px;
+  top: -25px;
+}
+.icon_handshake {
+  position: absolute;
+  width: 70px;
+  top: -15px;
+}
+
+.offer_right {
+  height: 100%;
+  background-color: rgb(107, 107, 105);
+  width: 50%;
+}
+.possibilities_right {
+  height: 100%;
+  background-color: rgb(20, 20, 173);
+  width: 50%;
+}

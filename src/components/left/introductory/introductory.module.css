@@ -1,0 +1,21 @@
+.introductory_description_left {
+  padding: 0;
+  height: 100%;
+  max-width: 50%;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  background-image: url("../../../icon/blueprint1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.left_shift {
+  margin-left: 200px;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 50px;
+}
