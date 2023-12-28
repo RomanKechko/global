@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/global/static/css/main.1c6a6797.css",
-    "main.js": "/global/static/js/main.250a445f.js",
+    "main.js": "/global/static/js/main.c2557b0a.js",
     "static/media/cat2.jpg": "/global/static/media/cat2.35d13aba8b12642f6e83.jpg",
     "static/media/SolidWorks.jpg": "/global/static/media/SolidWorks.176d245f5bbe0d47cbad.jpg",
     "static/media/cat4.jpg": "/global/static/media/cat4.f3cb95491cd20805dfbc.jpg",
@@ -20,10 +20,10 @@
     "static/media/table.png": "/global/static/media/table.bbe884023500d51cffe2.png",
     "index.html": "/global/index.html",
     "main.1c6a6797.css.map": "/global/static/css/main.1c6a6797.css.map",
-    "main.250a445f.js.map": "/global/static/js/main.250a445f.js.map"
+    "main.c2557b0a.js.map": "/global/static/js/main.c2557b0a.js.map"
   },
   "entrypoints": [
     "static/css/main.1c6a6797.css",
-    "static/js/main.250a445f.js"
+    "static/js/main.c2557b0a.js"
   ]
 }
