@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "./static/css/main.957533bd.css",
-    "main.js": "./static/js/main.699d2a68.js",
-    "static/media/cat2.jpg": "./static/media/cat2.35d13aba8b12642f6e83.jpg",
-    "static/media/SolidWorks.jpg": "./static/media/SolidWorks.176d245f5bbe0d47cbad.jpg",
-    "static/media/cat4.jpg": "./static/media/cat4.f3cb95491cd20805dfbc.jpg",
-    "static/media/blueprint2.jpg": "./static/media/blueprint2.50c6f5071ab038e134df.jpg",
-    "static/media/blueprint1.jpg": "./static/media/blueprint1.23f87cfc31edef80e020.jpg",
-    "static/media/Val.png": "./static/media/Val.7e812c643dcf357e9ac4.png",
-    "static/media/Kompas.png": "./static/media/Kompas.c44497643f57a27a1383.png",
-    "static/media/cat3.jpg": "./static/media/cat3.6641db6bcf7dc1c3036f.jpg",
-    "static/media/cat5.jpg": "./static/media/cat5.eb2f0f772b9ca81569cd.jpg",
-    "static/media/cat1.jpg": "./static/media/cat1.7edb9eaaa9e84bb2c6d2.jpg",
-    "static/media/joonistaja.jpg": "./static/media/joonistaja.da0a2e66b91a92301108.jpg",
-    "static/media/hub.gif": "./static/media/hub.3b09aa07100fe8f1a969.gif",
-    "static/media/SolidList.jpg": "./static/media/SolidList.90cfabc7f7519f39f03e.jpg",
-    "static/media/handshake.png": "./static/media/handshake.bbf62fcf09dddb38650b.png",
-    "static/media/ok.png": "./static/media/ok.89fe9ba5f9eb583dd050.png",
-    "static/media/table.png": "./static/media/table.bbe884023500d51cffe2.png",
-    "index.html": "./index.html",
-    "main.957533bd.css.map": "./static/css/main.957533bd.css.map",
-    "main.699d2a68.js.map": "./static/js/main.699d2a68.js.map"
+    "main.css": "/global/static/css/main.1c6a6797.css",
+    "main.js": "/global/static/js/main.250a445f.js",
+    "static/media/cat2.jpg": "/global/static/media/cat2.35d13aba8b12642f6e83.jpg",
+    "static/media/SolidWorks.jpg": "/global/static/media/SolidWorks.176d245f5bbe0d47cbad.jpg",
+    "static/media/cat4.jpg": "/global/static/media/cat4.f3cb95491cd20805dfbc.jpg",
+    "static/media/blueprint2.jpg": "/global/static/media/blueprint2.50c6f5071ab038e134df.jpg",
+    "static/media/blueprint1.jpg": "/global/static/media/blueprint1.23f87cfc31edef80e020.jpg",
+    "static/media/Val.png": "/global/static/media/Val.7e812c643dcf357e9ac4.png",
+    "static/media/Kompas.png": "/global/static/media/Kompas.c44497643f57a27a1383.png",
+    "static/media/cat3.jpg": "/global/static/media/cat3.6641db6bcf7dc1c3036f.jpg",
+    "static/media/cat5.jpg": "/global/static/media/cat5.eb2f0f772b9ca81569cd.jpg",
+    "static/media/cat1.jpg": "/global/static/media/cat1.7edb9eaaa9e84bb2c6d2.jpg",
+    "static/media/joonistaja.jpg": "/global/static/media/joonistaja.da0a2e66b91a92301108.jpg",
+    "static/media/hub.gif": "/global/static/media/hub.3b09aa07100fe8f1a969.gif",
+    "static/media/SolidList.jpg": "/global/static/media/SolidList.90cfabc7f7519f39f03e.jpg",
+    "static/media/handshake.png": "/global/static/media/handshake.bbf62fcf09dddb38650b.png",
+    "static/media/ok.png": "/global/static/media/ok.89fe9ba5f9eb583dd050.png",
+    "static/media/table.png": "/global/static/media/table.bbe884023500d51cffe2.png",
+    "index.html": "/global/index.html",
+    "main.1c6a6797.css.map": "/global/static/css/main.1c6a6797.css.map",
+    "main.250a445f.js.map": "/global/static/js/main.250a445f.js.map"
   },
   "entrypoints": [
-    "static/css/main.957533bd.css",
-    "static/js/main.699d2a68.js"
+    "static/css/main.1c6a6797.css",
+    "static/js/main.250a445f.js"
   ]
 }
