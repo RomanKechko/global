@@ -1,7 +1,7 @@
 .introductory_description_right {
   padding: 0;
   height: 100%;
-  max-width: 50%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;

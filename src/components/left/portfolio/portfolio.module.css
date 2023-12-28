@@ -1,0 +1,57 @@
+.portfolio_left {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  background-color: rgb(69, 231, 210);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.portfolio_title {
+  font-size: 52px;
+  margin: 0;
+}
+.portfolio_border {
+  position: relative;
+  width: 400px;
+  height: 2px;
+  overflow: hidden;
+}
+
+.portfolio_border::before,
+.portfolio_border::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 50%; /* Половина ширины контейнера */
+  background-color: rgb(97, 97, 97);
+  animation: borderAnimation 3s infinite linear;
+}
+
+.portfolio_border::before {
+  left: 0;
+  transform-origin: right;
+}
+
+.portfolio_border::after {
+  right: 0;
+  transform-origin: left;
+}
+
+@keyframes borderAnimation {
+  0%,
+  100% {
+    transform: scaleX(0);
+  }
+  50% {
+    transform: scaleX(1);
+  }
+}
+.portfolio_description {
+  width: 540px;
+  text-align: center;
+  font-size: 22px;
+}

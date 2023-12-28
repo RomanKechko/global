@@ -1,5 +1,29 @@
 .offer_left {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   height: 100%;
-  background-color: rgb(222, 238, 77);
-  width: 50%;
+  width: 100%;
+  padding: 150px 0 0 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(208, 226, 226);
+}
+.offer_image {
+  width: 72%;
+  padding-left: 215px;
+}
+
+.offer_title {
+  margin: 0;
+  padding: 20px 0 0 215px;
+  font-size: 1.8rem;
+}
+.offer_subheading {
+  margin: 0;
+  padding: 15px 0 10px 215px;
+  font-size: 1.4rem;
+}
+.offer_lists {
+  padding-left: 250px;
+  margin: 0;
 }
