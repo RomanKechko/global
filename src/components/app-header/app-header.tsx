@@ -22,7 +22,7 @@ const AppHeader: FC = () => {
             </NavLink>
           </li>
           <li className={s.nav_list}>
-            <NavLink to="/a" className={setNavStyle}>
+            <NavLink to="/portfolio" className={setNavStyle}>
               наши проекты
             </NavLink>
           </li>

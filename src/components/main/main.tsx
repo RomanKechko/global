@@ -7,7 +7,6 @@ import OfferRight from "../right/offer/offer";
 import OfferLeft from "../left/offer/offer";
 import PossibilitiesLeft from "../left/possibilities/possibilities";
 import PossibilitiesRight from "../right/possibilities/possibilities";
-import OfferReversRight from "../right/portfolio/portfolio";
 import OfferModelsRight from "../right/offer-models/offer-models";
 import OfferModelsLeft from "../left/offer-models/offer-models";
 import PortfolioLeft from "../left/portfolio/portfolio";
